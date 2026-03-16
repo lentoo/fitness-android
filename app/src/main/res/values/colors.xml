@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fitness_primary">#6D4AB8</color>
+    <color name="fitness_primary_dark">#55359A</color>
+    <color name="fitness_primary_soft">#EBDDFF</color>
+    <color name="fitness_secondary">#6C7FA5</color>
+    <color name="fitness_surface">#FFFFFF</color>
+    <color name="fitness_background">#F5F7FC</color>
+    <color name="fitness_border">#DDD6F3</color>
+    <color name="fitness_text">#20222C</color>
+    <color name="fitness_text_muted">#70829E</color>
+    <color name="fitness_success">#0BBE92</color>
+    <color name="fitness_warning">#FF5D5D</color>
+    <color name="fitness_card_blue">#DFF0FF</color>
+    <color name="fitness_card_green">#E7FFF2</color>
+    <color name="fitness_chart">#1E6BE3</color>
+    <color name="fitness_icon_bg">#6D4AB8</color>
+    <color name="fitness_icon_fg">#FFFFFF</color>
+</resources>

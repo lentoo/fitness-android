@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FitnessAndroidApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/fitness_background</item>
+        <item name="android:navigationBarColor">@color/fitness_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="colorPrimary">@color/fitness_primary</item>
+        <item name="colorPrimaryVariant">@color/fitness_primary_dark</item>
+        <item name="colorSecondary">@color/fitness_secondary</item>
+        <item name="android:windowBackground">@color/fitness_background</item>
+    </style>
+
+    <style name="Theme.FitnessAndroidApp.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/fitness_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.FitnessAndroidApp</item>
+    </style>
+</resources>

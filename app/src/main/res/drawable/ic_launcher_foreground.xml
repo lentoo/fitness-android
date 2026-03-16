@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/fitness_icon_fg"
+        android:pathData="M26,22c-5.523,0 -10,4.477 -10,10v20c0,5.523 4.477,10 10,10h9v8c0,5.523 4.477,10 10,10h18c5.523,0 10,-4.477 10,-10v-8h9c5.523,0 10,-4.477 10,-10V32c0,-5.523 -4.477,-10 -10,-10H26zM30,32h48c0.552,0 1,0.448 1,1v18c0,0.552 -0.448,1 -1,1H30c-0.552,0 -1,-0.448 -1,-1V33c0,-0.552 0.448,-1 1,-1zM41,63h26v7c0,0.552 -0.448,1 -1,1H42c-0.552,0 -1,-0.448 -1,-1V63z" />
+    <path
+        android:fillColor="#CDBBFF"
+        android:pathData="M35,39h38v6H35zM35,47h21v6H35z" />
+</vector>

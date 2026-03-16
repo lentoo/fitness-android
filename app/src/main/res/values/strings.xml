@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">健身追踪</string>
+    <string name="action_retry">重试</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_save">保存</string>
+    <string name="action_reset_default">恢复默认</string>
+    <string name="dialog_title_base_url">设置服务端地址</string>
+    <string name="dialog_message_base_url">请输入现有系统的服务端根地址，App 会自动拼接 `/fitness.html`。</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="error_template">当前无法打开健身页面：%1$s</string>
+    <string name="error_snackbar">页面加载失败，请检查服务地址与网络。</string>
+</resources>
